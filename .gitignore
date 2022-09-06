@@ -1,0 +1,8 @@
+# Keep usernames and password private
+secrets.py
+
+# Python
+.__pycache__
+
+# macOS
+DS_Store
